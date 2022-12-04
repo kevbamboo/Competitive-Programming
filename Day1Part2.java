@@ -1,9 +1,8 @@
 import java.io.*;
 
-
-public class MyClass {
+public class Day1Part2 {
     public static void main(String args[]) throws IOException {
-        BufferedReader br = new BufferedReader(new FileReader("a.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("txt.txt"));
         long max1 = -1;
         long max2 = -1;
         long max3 = -1;
