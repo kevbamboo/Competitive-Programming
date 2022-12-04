@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Camp1 {
+public class Day4Part1 {
     public static void main(String args[]) throws IOException {
         BufferedReader br = new BufferedReader(new FileReader("input.txt"));
         int numContained = 0;
