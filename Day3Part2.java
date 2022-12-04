@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Rucksack2 {
+public class Day3Part2 {
     public static void main(String args[]) throws IOException {
         BufferedReader br = new BufferedReader(new FileReader("input.txt"));
         long totalPriority = 0;
