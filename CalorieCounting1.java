@@ -1,8 +1,8 @@
 import java.io.*;
 
-public class CalorieCounting1 {
+public class Day1Part1 {
     public static void main(String args[]) throws IOException {
-        BufferedReader br = new BufferedReader(new FileReader("a.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("input.txt"));
         long max = -1;
         long elf = 0;
         String s;
