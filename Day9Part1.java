@@ -69,7 +69,7 @@ public class Day9Part1 {
                     TY++;
                     TX = HX;
                 }
-        }
+            }
         }
         H[0] = HX;
         H[1] = HY;
